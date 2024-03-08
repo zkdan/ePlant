@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 
 import { CssBaseline, ThemeProvider } from '@mui/material'
 
-import { dark, light } from './css/theme'
+import { dark, light } from './style/theme'
 import Sidebar from './UI/Sidebar'
 import { useConfig } from './config'
 import EplantLayout from './EplantLayout'
