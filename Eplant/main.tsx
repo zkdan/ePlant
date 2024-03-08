@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 import { Config, defaultConfig } from './config'
 import Eplant from './Eplant'
 
-import './css/index.css'
+import './style/index.css'
 
 function RootApp() {
   return (
